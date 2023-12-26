@@ -1,4 +1,4 @@
-# MongoDB Cheat Sheet
+# MongoDB Install and basic CMD
 
 ### First Steps: Install MongoDB shell mongosh **[From Here](https://www.mongodb.com/docs/mongodb-shell/install/)**
 ### Second Steps: Install source [MongoDB Shell](https://www.mongodb.com/try/download/shell)
@@ -7,7 +7,7 @@
 **mongosh** is the MongoDB Shell command-line interface.
 
 Connect to a MongoDB instance using the mongosh command-line tool. Default authentication database for the MongoDB mongosh shell is the "admin" database.\
-`mongosh --username root --password example --host localhost --port 27017`
+`mongosh --username mongo_admin --password example --host localhost --port 27017`
 
 Create DB, If iot_db doesn't exist, MongoDB will create iot_db database.\
 `use iot_db`

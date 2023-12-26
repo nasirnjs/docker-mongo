@@ -1,3 +1,6 @@
+# MongoDB Cheat Sheet
+
+
 This command is used to display a list of all available databases on your MongoDB server.\
 `show dbs`
 
