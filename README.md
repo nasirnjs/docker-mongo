@@ -1,6 +1,6 @@
 # MongoDB Install and basic CMD
 
-**First Steps:** Install MongoDB shell mongosh, **mongosh** is the MongoDB Shell command-line interface. **[From Here](https://www.mongodb.com/docs/mongodb-shell/install/)**
+**First Steps:** Install MongoDB shell mongosh **[From Here](https://www.mongodb.com/docs/mongodb-shell/install/)**, **mongosh** is the MongoDB Shell command-line interface. 
 
 **Second Steps:** Install source **[MongoDB Shell](https://www.mongodb.com/try/download/shell)**
 
