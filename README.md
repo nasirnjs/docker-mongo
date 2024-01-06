@@ -1,8 +1,8 @@
 # MongoDB Install and basic CMD
 
-### First Steps: Install MongoDB shell mongosh **[From Here](https://www.mongodb.com/docs/mongodb-shell/install/)**
-### Second Steps: Install source [MongoDB Shell](https://www.mongodb.com/try/download/shell)
-### Third Steps: Download and Install MongoDB Compass [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+**First Steps:** Install MongoDB shell mongosh **[From Here](https://www.mongodb.com/docs/mongodb-shell/install/)**
+**Second Steps:** Install source **[MongoDB Shell](https://www.mongodb.com/try/download/shell)**
+**Third Steps:** Download and Install MongoDB Compass **[MongoDB Compass](https://www.mongodb.com/try/download/compass)**
 
 **mongosh** is the MongoDB Shell command-line interface.
 
